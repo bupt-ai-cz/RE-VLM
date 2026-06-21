@@ -58,7 +58,6 @@ If you find our work helpful, please consider citing:
 For questions or collaborations, please contact:
 - Hanqing Liu: hanqingliu@bupt.edu.cn
 - Mingjie Liu: EchosLiu@outlook.com
-- Chuang Zhu : czhu@bupt.edu.cn
 
 ---
 
